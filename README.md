@@ -2,7 +2,7 @@
 
 This is pretty cool.
 
-I can edit my files here in the [repo](https://github.com/Uppsidan.github.io) and then it is compiled to a web site at 
+I can edit my files here in the [repo](https://github.com/Uppsidan/Uppsidan.github.io) and then it is compiled to a web site at 
 [Github Pages](https://uppsidan.github.io/)
 
 And here is a raindeer:
