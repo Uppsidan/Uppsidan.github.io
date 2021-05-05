@@ -10,6 +10,7 @@ And here is a raindeer:
 
 The template framework is called jekyll and it has many different themes to make a static website. This theme is made for SW documentation. There are other themes for blogging or portfolios or whatever. This one is very basic but some other are nice two-column bootstrap templates.
 
-Jekyll has become popular, partly because it is used on Github Pages. Free hosting is good. Simple markdown pages and some small configuration. No database. No special tools.
+Jekyll has become popular, partly because it is used on Github Pages. Free hosting is good. Simple markdown pages and some small configuration. No database. No special tools to run the site, just a standard web server
 
-This site is made completely on Github. It is also possible to do everything on a local computer and then upload to some server. RTFM.
+This site is made completely on Github. It is also possible to do everything on a local computer and then upload to some server.
+[RTFM](https://jekyllrb.com).
