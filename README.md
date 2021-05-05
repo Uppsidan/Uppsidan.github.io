@@ -3,7 +3,7 @@
 This is pretty cool.
 
 I can edit my files here in the [repo](https://github.com/Uppsidan/Uppsidan.github.io) and then it is compiled to a web site at 
-[Github Pages](https://uppsidan.github.io/)
+[Github Pages](https://uppsidan.github.io/), after some time.
 
 And here is a raindeer:
 ![raindeer](20150713_185711_4672.jpg)
