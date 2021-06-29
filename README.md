@@ -14,8 +14,3 @@ Jekyll has become popular, partly because it is used on Github Pages. Free hosti
 
 This site is made completely on Github. It is also possible to do everything on a local computer and then upload to some server.
 [RTFM](https://jekyllrb.com).
-
-Next I am going to test another popular theme called [minimalmistakes](https://mmistakes.github.io/minimal-mistakes/). More advanced and multipurpose, but more difficult. The default seems to be for blogging, but their documentation looks very nice.
-
-Using templates like this is two-fold; easy to get something working, but more difficult to change style.
-
