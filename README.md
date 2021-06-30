@@ -1,9 +1,3 @@
----
-layout: default
-title: ReadMe
-nav_exclude: true
----
-
 # Uppsidan
 
 This is pretty cool.
