@@ -8,10 +8,12 @@ The ReadMe is usually the first thing a visitor will see. It is partly as advert
 Project Title should be something that helps understand what it is or does. "Moesha experiment 2" is not a good title. "Dice game using JavaScript" is better.
 
 ### Screen Shots
-Optional but can be cool, but don't overdo it. Create a folder like "media" or "screenshots" and put the pictures there.
+Optional but can be cool, but don't overdo it. Create a folder like "media", "screenshots" or "docs" and put the pictures there.
 
 ### Description
 What it does
+
+Wy you made it
 
 What Technology is used
 
@@ -21,7 +23,7 @@ Using adjectives can be offensive; you should try to be non-biased and objective
 
 ### Installation
 Which libraries are required, what server is required. Any specific versions? (at least you can say "known to work with version X")
-How do you install the SW. 
+How do you download and install the SW. 
 
 ### Usage
 How to use the SW. Again you can use screen shots.
@@ -74,12 +76,14 @@ Copyright (c) 2021 Bengt Månsson
 
 GitHub uses markdown (.md) files. The markdown name is a joke for those who know markup like HTML. Server plug-ins convert .md to html on the fly.
 
-It is easier for the non html savvy person to write good looking documents. It is almost just plain text and not so much cluttered with tags.
+It is easier for the non html savvy person to write good looking documents. It is almost just plain text and not so much cluttered with tags. On GitHub you alse get a TOC automatic.
 
 You see how it is used in this document if you view the raw format. You see text and headers. Check the README.md in the same repo to see how to include pictures and hyperlinks.
 (It took me some time to remember to put in all these extra blank lines.)
 
-Google "github markdown" and you will find some short descriptions as well as the full spec (which I haven't read). [Here](https://guides.github.com/features/mastering-markdown/) is a good start.
+Google "[github markdown](https://letmegooglethat.com/?q=github+mardown)" and you will find some short descriptions as well as the full spec (which I haven't read). [Here](https://guides.github.com/features/mastering-markdown/) is a good start.
+
+(Ha ha, that LMGTFY link is considered a bit rude and should not be used, unless you are really angry. Sorry for that.)
 
 You can use html inside md. I have not tried that.
 
@@ -88,6 +92,10 @@ You can get syntax coloured code snippets with three backticks:
 var randomDiceImage = "images/dice" + randomNumber1 + ".png";
 var image1 = document.querySelectorAll("img")[0];
 image1.setAttribute("src", randomDiceImage);
+```
+or
+```sh
+sudo rm file.txt
 ```
 
 If you have just one screenshot you may show it in the ReadMe directly. If you have many it can be better to show them in a screenshots.md, and link to that from the ReadMe.
